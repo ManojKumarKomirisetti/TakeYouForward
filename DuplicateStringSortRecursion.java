@@ -1,6 +1,6 @@
 import java.util.*;
 public class DuplicateStringSortRecursion{
-   
+   //Removal of string duplicates
    static String str = "aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz";
 
 
