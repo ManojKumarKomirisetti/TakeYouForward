@@ -1,5 +1,5 @@
- import java.util.*;
-public class DuplicateArraySortRecursion {
+import java.util.*;
+public class Test {
    //static int arr[] = {1,2,5,2,4,3,9,4,5,3,2,53,52,2,6,2,5,1,8,4,6,9,2252,4,1,2,5,52,2252};
    //static int[] arr = {2, 2, 3, 3, 5, 5, 7, 7, 9, 9};
    static int[] arr = {
