@@ -1,6 +1,7 @@
 import java.util.*;
 public class DuplicateStringArraySortRecursion{
-   
+      //Removal of string Array duplicates
+
    static String str[] = {
     "apple", "banana", "apple", "cherry", "banana", 
     "date", "fig", "cherry", "grape", "fig"
